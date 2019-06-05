@@ -1,2 +1,7 @@
-# gss19_pbhs
-GRAPPA Student Seminar 2019: PBH group
+# GRAPPA Student Seminar 2019: PBH group
+
+Group members
+* Dylan van Arneman
+* Gijs Leguijt
+* Sven Poelmann
+* Yoran Yeh
