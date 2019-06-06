@@ -2,7 +2,7 @@
 
 ## Topic
 
-Explain what primordial black holes are, and evaluate whether they could be dark matter. How could they be detected? Is it possible that they only constitute a subdominant fraction of dark matter?
+Explain what primordial black holes are, and evaluate whether they could be dark matter. How could they be detected, and what constraints exist? Is it possible that they only constitute a subdominant fraction of dark matter?
 
 ## Group members
 * Dylan van Arneman
